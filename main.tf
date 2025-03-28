@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "ap-northeast-2"  # Update to match your region
+  region = "ap-northeast-2" 
 }
 
 # Look up EKS VPC by name tag
